@@ -1,0 +1,11 @@
+PAYSLIP FOR DEC 1981
+====================
+Name of Staff: Carol
+Hours worked: 2
+
+Basic Pay: $100.00
+Allowance: $1,000.00
+
+====================
+Total Pay: $100.00
+====================

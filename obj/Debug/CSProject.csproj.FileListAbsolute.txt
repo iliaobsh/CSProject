@@ -1,0 +1,14 @@
+C:\Users\ILIA\Documents\STUDIES\CO-OP\C#\CSProject\bin\Debug\CSProject.exe.config
+C:\Users\ILIA\Documents\STUDIES\CO-OP\C#\CSProject\bin\Debug\CSProject.exe
+C:\Users\ILIA\Documents\STUDIES\CO-OP\C#\CSProject\bin\Debug\CSProject.pdb
+C:\Users\ILIA\Documents\STUDIES\CO-OP\C#\CSProject\obj\Debug\CSProject.csprojResolveAssemblyReference.cache
+C:\Users\ILIA\Documents\STUDIES\CO-OP\C#\CSProject\obj\Debug\CSProject.csproj.CoreCompileInputs.cache
+C:\Users\ILIA\Documents\STUDIES\CO-OP\C#\CSProject\obj\Debug\CSProject.exe
+C:\Users\ILIA\Documents\STUDIES\CO-OP\C#\CSProject\obj\Debug\CSProject.pdb
+C:\Users\ILIA\Documents\STUDIES\CO-OP\CSProject\bin\Debug\CSProject.exe.config
+C:\Users\ILIA\Documents\STUDIES\CO-OP\CSProject\bin\Debug\CSProject.exe
+C:\Users\ILIA\Documents\STUDIES\CO-OP\CSProject\bin\Debug\CSProject.pdb
+C:\Users\ILIA\Documents\STUDIES\CO-OP\CSProject\obj\Debug\CSProject.csprojResolveAssemblyReference.cache
+C:\Users\ILIA\Documents\STUDIES\CO-OP\CSProject\obj\Debug\CSProject.csproj.CoreCompileInputs.cache
+C:\Users\ILIA\Documents\STUDIES\CO-OP\CSProject\obj\Debug\CSProject.exe
+C:\Users\ILIA\Documents\STUDIES\CO-OP\CSProject\obj\Debug\CSProject.pdb

@@ -1,0 +1,11 @@
+PAYSLIP FOR DEC 1981
+====================
+Name of Staff: John
+Hours worked: 3
+
+Basic Pay: $150.00
+Allowance: $1,000.00
+
+====================
+Total Pay: $150.00
+====================

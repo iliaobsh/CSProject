@@ -8,6 +8,7 @@ namespace CSProject
 {
     class Staff
     {
+        //a
         private float hourlyRate;
         private int hWorked;
 
